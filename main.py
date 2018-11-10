@@ -1,6 +1,5 @@
 import pygame
 import numpy as np
-import math
 
 display = {
     'width': 1024,
